@@ -1,1 +1,7 @@
 
+
+This question **mirrors exactly the operations in your Java code** and is ready to paste into your GitHub `README.md`.  
+
+If you want, I can **also write the full README version combining this question with the fully working Java code** in **one block**, ready for GitHub.  
+
+Do you want me to do that?
